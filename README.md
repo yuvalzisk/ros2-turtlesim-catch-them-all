@@ -68,4 +68,3 @@ The final project uses `turtlesim_catch_them_all`,
 
 ## Demo
 
-Video demonstration coming soon.
